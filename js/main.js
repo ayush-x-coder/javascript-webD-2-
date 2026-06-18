@@ -14,4 +14,6 @@ let p = 5;
 let q = 10;
 [p, q] = [q, p];
 console.log(p, q);
+let n = 5;
+console.log(n * n);
 
