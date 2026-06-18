@@ -34,6 +34,8 @@ for (let i = 1; i <= 5; i++) {
   fact *= i;
 }
 console.log(fact);
+let str = "hello";
+console.log(str.split("").reverse().join(""));
 
 
 
