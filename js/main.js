@@ -5,3 +5,5 @@ console.log(a + b);
 console.log(a - b);
 console.log(a * b);
 console.log(a / b);
+let num = 8;
+console.log(num % 2 === 0 ? "Even" : "Odd");
