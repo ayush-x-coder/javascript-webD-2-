@@ -44,6 +44,7 @@ console.log(Math.min(...arr));
 let word = "madam";
 console.log(word === word.split("").reverse().join(""));
 console.log(Math.floor(Math.random() * 100));
+console.log(new Date());
 
 
 
