@@ -16,4 +16,6 @@ let q = 10;
 console.log(p, q);
 let n = 5;
 console.log(n * n);
+console.log(n * n * n);
+
 
