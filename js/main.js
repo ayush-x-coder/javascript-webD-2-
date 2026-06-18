@@ -45,7 +45,8 @@ let word = "madam";
 console.log(word === word.split("").reverse().join(""));
 console.log(Math.floor(Math.random() * 100));
 console.log(new Date());
-
+let nums = [5, 2, 8, 1];
+console.log(nums.sort((a, b) => a - b));
 
 
 
