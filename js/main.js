@@ -17,5 +17,8 @@ console.log(p, q);
 let n = 5;
 console.log(n * n);
 console.log(n * n * n);
+let c = 25;
+console.log((c * 9) / 5 + 32);
+
 
 
