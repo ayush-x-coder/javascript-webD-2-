@@ -43,6 +43,7 @@ console.log(Math.max(...arr));
 console.log(Math.min(...arr));
 let word = "madam";
 console.log(word === word.split("").reverse().join(""));
+console.log(Math.floor(Math.random() * 100));
 
 
 
