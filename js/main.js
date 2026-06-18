@@ -10,3 +10,8 @@ console.log(num % 2 === 0 ? "Even" : "Odd");
 let x = 10;
 let y = 20;
 console.log(x > y ? x : y);
+let p = 5;
+let q = 10;
+[p, q] = [q, p];
+console.log(p, q);
+
