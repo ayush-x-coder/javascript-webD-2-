@@ -47,6 +47,9 @@ console.log(Math.floor(Math.random() * 100));
 console.log(new Date());
 let nums = [5, 2, 8, 1];
 console.log(nums.sort((a, b) => a - b));
+let text = "javascript";
+let vowels = text.match(/[aeiou]/g);
+console.log(vowels.length);
 
 
 
