@@ -19,6 +19,9 @@ console.log(n * n);
 console.log(n * n * n);
 let c = 25;
 console.log((c * 9) / 5 + 32);
+let value = -5;
+console.log(value >= 0 ? "Positive" : "Negative");
+
 
 
 
